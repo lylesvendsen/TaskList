@@ -1,0 +1,28 @@
+body {
+    background-color: #cccccc;
+}
+
+
+.App  {
+    border-radius: 25px;
+    background: rgb(167, 167, 167);
+    padding: 20px; 
+}
+
+.TaskItem{
+    background: rgb(226, 226, 226);
+}
+
+#AddTask{
+    margin-bottom:10px;
+}
+
+.TaskItem{
+    padding:5px;
+}
+
+
+.complete {
+    text-decoration: line-through;
+    color:#a0a0a0;
+}
